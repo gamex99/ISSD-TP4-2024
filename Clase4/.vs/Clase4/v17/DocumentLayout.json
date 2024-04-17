@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ParraX\\Documents\\GitHub\\ISSD-TP4-2024\\Clase4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D289AF00-D4FC-466D-A06F-E7B2F8E853B6}|WebApplication1\\WebApplication1.csproj|c:\\users\\parrax\\documents\\github\\issd-tp4-2024\\clase4\\webapplication1\\alta.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D289AF00-D4FC-466D-A06F-E7B2F8E853B6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\alta.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D289AF00-D4FC-466D-A06F-E7B2F8E853B6}|WebApplication1\\WebApplication1.csproj|c:\\users\\parrax\\documents\\github\\issd-tp4-2024\\clase4\\webapplication1\\consulta.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D289AF00-D4FC-466D-A06F-E7B2F8E853B6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\consulta.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D289AF00-D4FC-466D-A06F-E7B2F8E853B6}|WebApplication1\\WebApplication1.csproj|c:\\users\\parrax\\documents\\github\\issd-tp4-2024\\clase4\\webapplication1\\modificacion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D289AF00-D4FC-466D-A06F-E7B2F8E853B6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\modificacion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Alta.aspx",
+              "DocumentMoniker": "C:\\Users\\ParraX\\Documents\\GitHub\\ISSD-TP4-2024\\Clase4\\WebApplication1\\Alta.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\Alta.aspx",
+              "ToolTip": "C:\\Users\\ParraX\\Documents\\GitHub\\ISSD-TP4-2024\\Clase4\\WebApplication1\\Alta.aspx",
+              "RelativeToolTip": "WebApplication1\\Alta.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-17T22:46:45.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Modificacion.aspx",
+              "DocumentMoniker": "C:\\Users\\ParraX\\Documents\\GitHub\\ISSD-TP4-2024\\Clase4\\WebApplication1\\Modificacion.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\Modificacion.aspx",
+              "ToolTip": "C:\\Users\\ParraX\\Documents\\GitHub\\ISSD-TP4-2024\\Clase4\\WebApplication1\\Modificacion.aspx",
+              "RelativeToolTip": "WebApplication1\\Modificacion.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-17T22:45:50.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Consulta.aspx",
+              "DocumentMoniker": "C:\\Users\\ParraX\\Documents\\GitHub\\ISSD-TP4-2024\\Clase4\\WebApplication1\\Consulta.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\Consulta.aspx",
+              "ToolTip": "C:\\Users\\ParraX\\Documents\\GitHub\\ISSD-TP4-2024\\Clase4\\WebApplication1\\Consulta.aspx",
+              "RelativeToolTip": "WebApplication1\\Consulta.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-17T22:45:46.041Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
