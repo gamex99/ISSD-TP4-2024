@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{D289AF00-D4FC-466D-A06F-E7B2F8E853B6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\alta.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D289AF00-D4FC-466D-A06F-E7B2F8E853B6}|WebApplication1\\WebApplication1.csproj|c:\\users\\parrax\\documents\\github\\issd-tp4-2024\\clase4\\webapplication1\\consulta.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D289AF00-D4FC-466D-A06F-E7B2F8E853B6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\consulta.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D289AF00-D4FC-466D-A06F-E7B2F8E853B6}|WebApplication1\\WebApplication1.csproj|c:\\users\\parrax\\documents\\github\\issd-tp4-2024\\clase4\\webapplication1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D289AF00-D4FC-466D-A06F-E7B2F8E853B6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ParraX\\Documents\\GitHub\\ISSD-TP4-2024\\Clase4\\WebApplication1\\WebForm1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication1\\WebForm1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
@@ -28,14 +36,40 @@
               "RelativeDocumentMoniker": "WebApplication1\\Alta.aspx.cs",
               "ToolTip": "C:\\Users\\ParraX\\Documents\\GitHub\\ISSD-TP4-2024\\Clase4\\WebApplication1\\Alta.aspx.cs",
               "RelativeToolTip": "WebApplication1\\Alta.aspx.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwB8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T22:51:32.858Z",
+              "WhenOpened": "2024-05-11T20:33:51.438Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Consulta.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ParraX\\Documents\\GitHub\\ISSD-TP4-2024\\Clase4\\WebApplication1\\Consulta.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Consulta.aspx.cs",
+              "ToolTip": "C:\\Users\\ParraX\\Documents\\GitHub\\ISSD-TP4-2024\\Clase4\\WebApplication1\\Consulta.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\Consulta.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T20:33:42.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\ParraX\\Documents\\GitHub\\ISSD-TP4-2024\\Clase4\\WebApplication1\\Web.config",
+              "RelativeDocumentMoniker": "WebApplication1\\Web.config",
+              "ToolTip": "C:\\Users\\ParraX\\Documents\\GitHub\\ISSD-TP4-2024\\Clase4\\WebApplication1\\Web.config",
+              "RelativeToolTip": "WebApplication1\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-09T21:44:24.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "WebForm1.aspx",
               "DocumentMoniker": "C:\\Users\\ParraX\\Documents\\GitHub\\ISSD-TP4-2024\\Clase4\\WebApplication1\\WebForm1.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\WebForm1.aspx",
@@ -43,8 +77,7 @@
               "RelativeToolTip": "WebApplication1\\WebForm1.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-04-18T22:42:48.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T22:42:48.916Z"
             }
           ]
         }
