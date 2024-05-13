@@ -28,5 +28,10 @@ namespace TP4_TP1
         {
 
         }
+
+        protected void GridView1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

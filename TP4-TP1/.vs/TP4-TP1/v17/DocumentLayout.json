@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ParraX\\Documents\\GitHub\\ISSD-TP4-2024\\TP4-TP1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6503352D-564E-4C0E-B34E-E63C1ABC06D8}|TP4-TP1\\TP4-TP1.csproj|c:\\users\\parrax\\documents\\github\\issd-tp4-2024\\tp4-tp1\\tp4-tp1\\registrarvuelo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{6503352D-564E-4C0E-B34E-E63C1ABC06D8}|TP4-TP1\\TP4-TP1.csproj|solutionrelative:tp4-tp1\\registrarvuelo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{6503352D-564E-4C0E-B34E-E63C1ABC06D8}|TP4-TP1\\TP4-TP1.csproj|c:\\users\\parrax\\documents\\github\\issd-tp4-2024\\tp4-tp1\\tp4-tp1\\grillavuelos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6503352D-564E-4C0E-B34E-E63C1ABC06D8}|TP4-TP1\\TP4-TP1.csproj|solutionrelative:tp4-tp1\\grillavuelos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6503352D-564E-4C0E-B34E-E63C1ABC06D8}|TP4-TP1\\TP4-TP1.csproj|c:\\users\\parrax\\documents\\github\\issd-tp4-2024\\tp4-tp1\\tp4-tp1\\menu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{6503352D-564E-4C0E-B34E-E63C1ABC06D8}|TP4-TP1\\TP4-TP1.csproj|solutionrelative:tp4-tp1\\menu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6503352D-564E-4C0E-B34E-E63C1ABC06D8}|TP4-TP1\\TP4-TP1.csproj|c:\\users\\parrax\\documents\\github\\issd-tp4-2024\\tp4-tp1\\tp4-tp1\\registrarvuelo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6503352D-564E-4C0E-B34E-E63C1ABC06D8}|TP4-TP1\\TP4-TP1.csproj|solutionrelative:tp4-tp1\\registrarvuelo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6503352D-564E-4C0E-B34E-E63C1ABC06D8}|TP4-TP1\\TP4-TP1.csproj|c:\\users\\parrax\\documents\\github\\issd-tp4-2024\\tp4-tp1\\tp4-tp1\\grillavuelos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6503352D-564E-4C0E-B34E-E63C1ABC06D8}|TP4-TP1\\TP4-TP1.csproj|solutionrelative:tp4-tp1\\grillavuelos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,46 +17,33 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 410,
-          "SelectedChildIndex": 0,
+          "DockedHeight": 159,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RegistrarVuelo.aspx",
-              "DocumentMoniker": "C:\\Users\\ParraX\\Documents\\GitHub\\ISSD-TP4-2024\\TP4-TP1\\TP4-TP1\\RegistrarVuelo.aspx",
-              "RelativeDocumentMoniker": "TP4-TP1\\RegistrarVuelo.aspx",
-              "ToolTip": "C:\\Users\\ParraX\\Documents\\GitHub\\ISSD-TP4-2024\\TP4-TP1\\TP4-TP1\\RegistrarVuelo.aspx",
-              "RelativeToolTip": "TP4-TP1\\RegistrarVuelo.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-05-11T20:15:06.308Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Menu.aspx",
-              "DocumentMoniker": "C:\\Users\\ParraX\\Documents\\GitHub\\ISSD-TP4-2024\\TP4-TP1\\TP4-TP1\\Menu.aspx",
-              "RelativeDocumentMoniker": "TP4-TP1\\Menu.aspx",
-              "ToolTip": "C:\\Users\\ParraX\\Documents\\GitHub\\ISSD-TP4-2024\\TP4-TP1\\TP4-TP1\\Menu.aspx",
-              "RelativeToolTip": "TP4-TP1\\Menu.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-05-11T20:05:11.102Z",
+              "Title": "GrillaVuelos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ParraX\\Documents\\GitHub\\ISSD-TP4-2024\\TP4-TP1\\TP4-TP1\\GrillaVuelos.aspx.cs",
+              "RelativeDocumentMoniker": "TP4-TP1\\GrillaVuelos.aspx.cs",
+              "ToolTip": "C:\\Users\\ParraX\\Documents\\GitHub\\ISSD-TP4-2024\\TP4-TP1\\TP4-TP1\\GrillaVuelos.aspx.cs",
+              "RelativeToolTip": "TP4-TP1\\GrillaVuelos.aspx.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T02:42:46.053Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RegistrarVuelo.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\ParraX\\Documents\\GitHub\\ISSD-TP4-2024\\TP4-TP1\\TP4-TP1\\RegistrarVuelo.aspx.cs",
-              "RelativeDocumentMoniker": "TP4-TP1\\RegistrarVuelo.aspx.cs",
-              "ToolTip": "C:\\Users\\ParraX\\Documents\\GitHub\\ISSD-TP4-2024\\TP4-TP1\\TP4-TP1\\RegistrarVuelo.aspx.cs",
-              "RelativeToolTip": "TP4-TP1\\RegistrarVuelo.aspx.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwBwAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T20:15:31.461Z",
+              "DocumentIndex": 0,
+              "Title": "GrillaVuelos.aspx",
+              "DocumentMoniker": "C:\\Users\\ParraX\\Documents\\GitHub\\ISSD-TP4-2024\\TP4-TP1\\TP4-TP1\\GrillaVuelos.aspx",
+              "RelativeDocumentMoniker": "TP4-TP1\\GrillaVuelos.aspx",
+              "ToolTip": "C:\\Users\\ParraX\\Documents\\GitHub\\ISSD-TP4-2024\\TP4-TP1\\TP4-TP1\\GrillaVuelos.aspx",
+              "RelativeToolTip": "TP4-TP1\\GrillaVuelos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-13T02:41:18.426Z",
               "EditorCaption": ""
             }
           ]

@@ -49,7 +49,7 @@
       <asp:Label ID="Label2" runat="server" Text="Numero De Vuelo: "></asp:Label>
       <asp:TextBox runat="server" ID="tbvuelo"></asp:TextBox>
         <asp:DropDownList ID="dropdown" runat="server" DataTextField="Aerolineas" DataValueField="id" DataSourceID="SqlDataSource1"></asp:DropDownList>
-        <asp:Label ID="lbresultado" runat="server" Text="Registrado Correctamente" class="lbresultado"></asp:Label>
+        <asp:Label ID="lbresultado" runat="server" Text="" class="lbresultado"></asp:Label>
         <asp:Button ID="btnregistrar" runat="server" Text="Registrar" class="btnregistrar" OnClick="btnregistrar_Click" />
         <asp:HyperLink ID="Button1" runat="server" NavigateUrl="Menu.aspx">Menu</asp:HyperLink>
         <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:cadena %>" SelectCommand="SELECT 0 AS id, 'Seleccionar' AS Aerolineas
