@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ParraX\\Documents\\GitHub\\ISSD-TP4-2024\\TP4-TP2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F661682-9ED1-4253-AC99-B6780D17662A}|TP4-TP2\\TP4-TP2.csproj|c:\\users\\parrax\\documents\\github\\issd-tp4-2024\\tp4-tp2\\tp4-tp2\\menu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0F661682-9ED1-4253-AC99-B6780D17662A}|TP4-TP2\\TP4-TP2.csproj|solutionrelative:tp4-tp2\\menu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F661682-9ED1-4253-AC99-B6780D17662A}|TP4-TP2\\TP4-TP2.csproj|c:\\users\\parrax\\documents\\github\\issd-tp4-2024\\tp4-tp2\\tp4-tp2\\registrarvuelo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0F661682-9ED1-4253-AC99-B6780D17662A}|TP4-TP2\\TP4-TP2.csproj|solutionrelative:tp4-tp2\\registrarvuelo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F661682-9ED1-4253-AC99-B6780D17662A}|TP4-TP2\\TP4-TP2.csproj|c:\\users\\parrax\\documents\\github\\issd-tp4-2024\\tp4-tp2\\tp4-tp2\\registrarvuelo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F661682-9ED1-4253-AC99-B6780D17662A}|TP4-TP2\\TP4-TP2.csproj|solutionrelative:tp4-tp2\\registrarvuelo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F661682-9ED1-4253-AC99-B6780D17662A}|TP4-TP2\\TP4-TP2.csproj|c:\\users\\parrax\\documents\\github\\issd-tp4-2024\\tp4-tp2\\tp4-tp2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0F661682-9ED1-4253-AC99-B6780D17662A}|TP4-TP2\\TP4-TP2.csproj|solutionrelative:tp4-tp2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 203,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistrarVuelo.aspx",
+              "DocumentMoniker": "C:\\Users\\ParraX\\Documents\\GitHub\\ISSD-TP4-2024\\TP4-TP2\\TP4-TP2\\RegistrarVuelo.aspx",
+              "RelativeDocumentMoniker": "TP4-TP2\\RegistrarVuelo.aspx",
+              "ToolTip": "C:\\Users\\ParraX\\Documents\\GitHub\\ISSD-TP4-2024\\TP4-TP2\\TP4-TP2\\RegistrarVuelo.aspx",
+              "RelativeToolTip": "TP4-TP2\\RegistrarVuelo.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-15T03:14:16.728Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.aspx",
+              "DocumentMoniker": "C:\\Users\\ParraX\\Documents\\GitHub\\ISSD-TP4-2024\\TP4-TP2\\TP4-TP2\\Menu.aspx",
+              "RelativeDocumentMoniker": "TP4-TP2\\Menu.aspx",
+              "ToolTip": "C:\\Users\\ParraX\\Documents\\GitHub\\ISSD-TP4-2024\\TP4-TP2\\TP4-TP2\\Menu.aspx",
+              "RelativeToolTip": "TP4-TP2\\Menu.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-15T03:43:37.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistrarVuelo.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ParraX\\Documents\\GitHub\\ISSD-TP4-2024\\TP4-TP2\\TP4-TP2\\RegistrarVuelo.aspx.cs",
+              "RelativeDocumentMoniker": "TP4-TP2\\RegistrarVuelo.aspx.cs",
+              "ToolTip": "C:\\Users\\ParraX\\Documents\\GitHub\\ISSD-TP4-2024\\TP4-TP2\\TP4-TP2\\RegistrarVuelo.aspx.cs",
+              "RelativeToolTip": "TP4-TP2\\RegistrarVuelo.aspx.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAswCEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T03:31:36.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\ParraX\\Documents\\GitHub\\ISSD-TP4-2024\\TP4-TP2\\TP4-TP2\\Web.config",
+              "RelativeDocumentMoniker": "TP4-TP2\\Web.config",
+              "ToolTip": "C:\\Users\\ParraX\\Documents\\GitHub\\ISSD-TP4-2024\\TP4-TP2\\TP4-TP2\\Web.config",
+              "RelativeToolTip": "TP4-TP2\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAACMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-15T02:37:17.687Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
