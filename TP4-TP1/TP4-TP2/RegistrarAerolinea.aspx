@@ -16,9 +16,9 @@
             <asp:Label ID="Label1" runat="server" Text="Registrar Aerolinea:"></asp:Label>
             <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
             <asp:Button ID="btnregistrar" runat="server" Text="Registrar" OnClick="btnregistrar_Click" />
-            <asp:GridView ID="GridView1" runat="server" DataSourceID="SqlDataSource1" AllowPaging="True" AllowSorting="True">
+            <asp:GridView ID="GridView1" runat="server" DataSourceID="SqlDataSource1" AllowPaging="True" AllowSorting="True" DataKeyNames="id">
                 <Columns>
-                    <asp:CommandField  ShowEditButton="True"></asp:CommandField>
+                    <asp:CommandField ShowDeleteButton="True" ShowEditButton="True"></asp:CommandField>
                 </Columns>
             </asp:GridView>
             <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="Menu.aspx">Menu</asp:HyperLink>
