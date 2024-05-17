@@ -91,10 +91,10 @@
             <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="Menu.aspx">Menú</asp:HyperLink>
                         
             <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:TP4-TP2ConnectionString2 %>" ProviderName="<%$ ConnectionStrings:TP4-TP2ConnectionString2.ProviderName %>" SelectCommand="SELECT [id], [nombre] FROM [Aerolineas]"></asp:SqlDataSource>
-            <asp:SqlDataSource ID="SqlDataSource2" runat="server" ConnectionString="<%$ ConnectionStrings:TP4-TP2ConnectionString3 %>" DeleteCommand=" DELETE FROM [Vuelos] WHERE [id] = @id" InsertCommand="INSERT INTO [Vuelos] ([vuelo], [idAerolinea]) VALUES (@vuelo, @idAerolinea)" ProviderName="<%$ ConnectionStrings:TP4-TP2ConnectionString3.ProviderName %>" SelectCommand="SELECT v.*, a.nombre AS nombreAerolinea
+            <asp:SqlDataSource ID="SqlDataSource2" runat="server" ConnectionString="<%$ ConnectionStrings:TP4-TP2ConnectionString3 %>" DeleteCommand=" DELETE FROM [Vuelos] WHERE [id] = @id" InsertCommand="INSERT INTO [Vuelos] ([numeroVuelo], [idAerolinea]) VALUES (@vuelo, @idAerolinea)" ProviderName="<%$ ConnectionStrings:TP4-TP2ConnectionString3.ProviderName %>" SelectCommand="SELECT v.*, a.nombre AS nombreAerolinea
 FROM Vuelos v
 JOIN Aerolineas a ON v.idAerolinea = a.id"
-                UpdateCommand="UPDATE [Vuelos] SET [vuelo] = @vuelo, [idAerolinea] = @idAerolinea WHERE [id] = @id">
+                UpdateCommand="UPDATE [Vuelos] SET [numeroVuelo] = @vuelo, [idAerolinea] = @idAerolinea WHERE [id] = @id">
                 <DeleteParameters>
                     <asp:Parameter Name="id" Type="Int32"></asp:Parameter>
                 </DeleteParameters>
