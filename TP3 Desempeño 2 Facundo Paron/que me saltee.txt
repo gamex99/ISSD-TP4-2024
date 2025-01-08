@@ -1,0 +1,62 @@
+termino siendo anotaciones xd
+
+
+
+
+
+
+
+
+
+
+
+SELECT solicitud.* FROM solicitud JOIN usuarios ON solicitud.id_usuario = usuarios.id WHERE usuarios.id_rol = 1;
+SELECT solicitud.* FROM solicitud JOIN usuarios ON solicitud.id_usuario = usuarios.id WHERE usuarios.id_rol = 1 ORDER BY solicitud.fecha_de_carga ASC;
+SELECT solicitud.*, usuarios.nombre, usuarios.apellido FROM solicitud JOIN usuarios ON solicitud.id_usuario = usuarios.id WHERE usuarios.id_rol = 1 ORDER BY solicitud.fecha_de_carga ASC;
+
+
+me muestra segun id_rol : SELECT solicitud.*, usuarios.nombre, usuarios.apellido, rol.nombre_rol FROM solicitud JOIN usuarios ON solicitud.id_usuario = usuarios.id JOIN rol ON usuarios.id_rol = rol.id WHERE usuarios.id_rol = 2 ORDER BY solicitud.fecha_de_carga ASC;
+
+
+//para administrador uso : SELECT solicitud.*, usuarios.nombre, usuarios.apellido, solicitud_tipo.tipo_soli FROM solicitud JOIN usuarios ON solicitud.id_usuario = usuarios.id JOIN solicitud_tipo ON solicitud.id_tipo = solicitud_tipo.id ORDER BY solicitud.fecha_de_carga ASC;      
+///para usuarios normal uso: SELECT solicitud.*, usuarios.nombre, usuarios.apellido, rol.nombre_rol
+        FROM solicitud
+        JOIN usuarios ON solicitud.id_usuario = usuarios.id
+        JOIN rol ON usuarios.id_rol = rol.id
+        WHERE solicitud.id_usuario = 2
+        ORDER BY solicitud.fecha_de_carga ASC
+
+//// tecnico, hay que cambiar el id por el id de tecnico: SELECT solicitud.*, usuarios.nombre, usuarios.apellido, rol.nombre_rol FROM solicitud JOIN usuarios ON solicitud.id_usuario = usuarios.id JOIN rol ON usuarios.id_rol = rol.id WHERE usuarios.id_rol = 2 ORDER BY solicitud.fecha_de_carga ASC;
+
+///// para analista uso : SELECT solicitud.*, usuarios.nombre, usuarios.apellido, rol.nombre_rol
+        FROM solicitud
+        JOIN usuarios ON solicitud.id_usuario = usuarios.id
+        JOIN rol ON usuarios.id_rol = rol.id
+        WHERE usuarios.id_rol = 1 OR usuarios.id_rol = 2
+        ORDER BY solicitud.fecha_de_carga ASC
+
+
+
+
+
+
+
+
+         <?php if($mensaje == 'no1'){ ?>    
+            <div class="alert alert-dismissible alert-danger">
+                  <strong>Debes ingresar mas de 5 caracteres en el Titulo.</strong> 
+                </div>
+                <?php}  if($mensaje == 'ok'){ ?>
+              </div>
+              <div class="bs-component">
+                <div class="alert alert-dismissible alert-success">
+                  <strong>Solicitud almacenada!</strong>
+                </div>
+              </div>
+              <?php } if ($mensaje == 'no'){?>
+              <div class="bs-component">
+                <div class="alert alert-dismissible alert-info">
+                  <strong>Los campos con <i class="fa fa-asterisk" aria-hidden="true"></i> son obligatorios</strong>
+                </div>
+              </div>
+              <?php }?>
