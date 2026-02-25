@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ParraX\\source\\repos\\Issd_TP4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7737A2BC-D30B-4646-B535-057308563DA5}|Issd_TP4\\Issd_TP4.csproj|c:\\users\\parrax\\source\\repos\\issd_tp4\\issd_tp4\\crudturnos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7737A2BC-D30B-4646-B535-057308563DA5}|Issd_TP4\\Issd_TP4.csproj|solutionrelative:issd_tp4\\crudturnos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7737A2BC-D30B-4646-B535-057308563DA5}|Issd_TP4\\Issd_TP4.csproj|c:\\users\\parrax\\source\\repos\\issd_tp4\\issd_tp4\\crudturnos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7737A2BC-D30B-4646-B535-057308563DA5}|Issd_TP4\\Issd_TP4.csproj|solutionrelative:issd_tp4\\crudturnos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CRUDTurnos.aspx",
+              "DocumentMoniker": "C:\\Users\\ParraX\\source\\repos\\Issd_TP4\\Issd_TP4\\CRUDTurnos.aspx",
+              "RelativeDocumentMoniker": "Issd_TP4\\CRUDTurnos.aspx",
+              "ToolTip": "C:\\Users\\ParraX\\source\\repos\\Issd_TP4\\Issd_TP4\\CRUDTurnos.aspx",
+              "RelativeToolTip": "Issd_TP4\\CRUDTurnos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-02-25T22:57:31.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CRUDTurnos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ParraX\\source\\repos\\Issd_TP4\\Issd_TP4\\CRUDTurnos.aspx.cs",
+              "RelativeDocumentMoniker": "Issd_TP4\\CRUDTurnos.aspx.cs",
+              "ToolTip": "C:\\Users\\ParraX\\source\\repos\\Issd_TP4\\Issd_TP4\\CRUDTurnos.aspx.cs",
+              "RelativeToolTip": "Issd_TP4\\CRUDTurnos.aspx.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAswHQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T22:45:07.496Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
